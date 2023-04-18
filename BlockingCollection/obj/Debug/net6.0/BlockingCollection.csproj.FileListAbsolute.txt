@@ -1,0 +1,15 @@
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\bin\Debug\net6.0\BlockingCollection.exe
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\bin\Debug\net6.0\BlockingCollection.deps.json
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\bin\Debug\net6.0\BlockingCollection.runtimeconfig.json
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\bin\Debug\net6.0\BlockingCollection.dll
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\bin\Debug\net6.0\BlockingCollection.pdb
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\BlockingCollection.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\BlockingCollection.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\BlockingCollection.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\BlockingCollection.AssemblyInfo.cs
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\BlockingCollection.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\BlockingCollection.dll
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\refint\BlockingCollection.dll
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\BlockingCollection.pdb
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\BlockingCollection.genruntimeconfig.cache
+E:\PROGRAMAS\C#\PROGRAMACION III\BlockingCollection\BlockingCollection\obj\Debug\net6.0\ref\BlockingCollection.dll
