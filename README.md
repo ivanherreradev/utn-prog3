@@ -11,4 +11,4 @@
 
 - [@ivanherrera](https://github.com/ivanherreradev)
 - [@joaquintealdi](https://github.com/JoaquinTealdi)
-- [@nicolasroig]()
+- [@nicolasroig](https://github.com/Nico-R)
