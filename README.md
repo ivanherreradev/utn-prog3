@@ -1,6 +1,6 @@
 # Programacion III
 
-BlockingCollection<T> 
+## BlockingCollection<T>
 - ¿Qué es ?
 - ¿Cuándo se utiliza?
 - ¿Cómo se utiliza?
